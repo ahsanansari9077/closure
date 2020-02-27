@@ -27,6 +27,10 @@ class secondViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        /////pratics for taging
+        
+        
+        
     }
     
     @IBAction func saveButton(_ sender: Any) {
